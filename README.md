@@ -1,0 +1,1 @@
+# anomaly_detection_for_faulty_appliance_identification
